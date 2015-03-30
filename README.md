@@ -1,2 +1,2 @@
 # CI
-Computational Intelligence and Search Based Optimizations
+Computational Intelligence and Search Based Optimizations class
